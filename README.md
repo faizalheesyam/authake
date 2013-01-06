@@ -1,3 +1,5 @@
+(This project is forked from https://github.com/mtkocak/authake with the mission of enhancing the features and customize it based on my preference. All credit shall go to the original author.)
+
 Authake
 ============
 
@@ -23,7 +25,7 @@ Further changes are here for your contribution:
 - sha1 security
 - long id's
 - settings save issue
-- For questions and issues: Mutlu Tevfik Kocak mtkocak(at) gmail.com
+- For questions and issues: faizalheesyam@gmail.com
 
 Downlad
 --------------
@@ -86,4 +88,4 @@ Install
 
 6. Use username: **admin** password: **admin** to login
 
-    For any question mtkocak@gmail.com
+    For any question faizalheesyam@gmail.com
